@@ -5,11 +5,7 @@
     padding-left: 15px;
     padding-right: 15px;
 }
-body {
-    background-color: $bgc;
-    color: $primery-text-color;
-    font-family: $font-family;
-}
+
 
 .list {
     list-style: none;
@@ -17,26 +13,7 @@ body {
     padding: 0;
     margin: 0;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    margin: 0;
-}
-h2 {
-    margin-bottom: 4px;
-}
 
-h3 {
-    margin-bottom: 10px;
-}
-
-img {
-    display: block;
-}
 .title {
     margin-bottom: 50px;
     font-weight: 700;
@@ -56,6 +33,4 @@ img {
        clip-path: inset(50%);
        margin: -1px;
    }
-   textarea {
-       resize: none;
-   }
+  
